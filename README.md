@@ -2,7 +2,7 @@
 
 ### <b>COMMAN BOT FOR ALL MY TECHNOMINDZ SUBSCRIBERS With Pm Feature and 4GB Files Supporting Working One</b>
 
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/8fa444a080426d84673ef.jpg" width="500"></a></p>
 
 # Introduction
 
@@ -28,7 +28,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/CommonBot_For_All">
+<a href="https://heroku.com/deploy?template=https://github.com/misfere/CommonBot_For_All">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
